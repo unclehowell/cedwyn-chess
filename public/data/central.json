@@ -10,68 +10,19 @@
   "status",
   "page"
  ],
- "synced_utc": "2026-11-07T20:28:05Z",
- "count": 219,
+ "synced_utc": "2026-11-08T00:44:33Z",
+ "count": 268,
  "not_in_central": [
-  "EV-0222",
-  "EV-0223",
-  "EV-0224",
-  "EV-0225",
   "EV-0226",
-  "EV-0227",
-  "EV-0228",
-  "EV-0229",
-  "EV-0230",
-  "EV-0231",
-  "EV-0232",
-  "EV-0233",
   "EV-0234",
-  "EV-0235",
-  "EV-0236",
-  "EV-0237",
-  "EV-0238",
-  "EV-0239",
-  "EV-0240",
-  "EV-0241",
-  "EV-0242",
-  "EV-0243",
-  "EV-0244",
-  "EV-0245",
-  "EV-0246",
-  "EV-0247",
-  "EV-0249",
   "EV-0255",
-  "EV-0257",
-  "EV-0258",
-  "EV-0259",
-  "EV-0263",
-  "EV-0265",
-  "EV-0268",
-  "EV-0270",
-  "EV-0272",
-  "EV-0273",
   "EV-0274",
-  "EV-0275",
-  "EV-0276",
-  "EV-0277",
-  "EV-0279",
-  "EV-0280",
-  "EV-0282",
-  "EV-0283",
-  "EV-0285",
-  "EV-0286",
-  "EV-0289",
-  "EV-0291",
-  "EV-0292",
   "EV-0296",
   "EV-0330",
   "EV-0352",
   "EV-0420",
   "EV-0600",
-  "EV-0601",
-  "EV-0613",
-  "EV-0625",
-  "EV-0628"
+  "EV-0601"
  ],
  "items": {
   "EV-0001": {
@@ -2027,6 +1978,375 @@
    "status": "PENDING",
    "page": null
   },
+  "EV-0222": {
+   "id": "EV-0222",
+   "kind": "evidence",
+   "title": "DBDT121/3: agreement (counterpart) for tenancy of farm land in the parish of Leckwith, Western Ground Rents Limited and William Samuel Coles, with plan",
+   "date_display": "Oct 1944 (catalogue date; day not given)",
+   "date_sort": "1944-10",
+   "status": "PENDING",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0222-dbdt121-3-wgr-coles-leckwith-tenancy-1944/"
+  },
+  "EV-0223": {
+   "id": "EV-0223",
+   "kind": "evidence",
+   "title": "1881 census: reported Llandough Home Farm / R-W-S-S Farm wording",
+   "date_display": null,
+   "date_sort": null,
+   "status": null,
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0223-1881-census-name-variant/"
+  },
+  "EV-0224": {
+   "id": "EV-0224",
+   "kind": "evidence",
+   "title": "1881 census, Llandough, RG11/5288 page 2: “Llandough Home Farm”, John Williams, farmer",
+   "date_display": "Census night, 3 April 1881",
+   "date_sort": "1881-04-03",
+   "status": "HELD (photo). Transcribed by Tab from the photo, 19 Oct 2026.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0224-1881-census-llandough-rg11-5288/"
+  },
+  "EV-0225": {
+   "id": "EV-0225",
+   "kind": "evidence",
+   "title": "Trade directories, 1868–1901: John Williams at “Great House”, Llandough",
+   "date_display": "1868, 1875, 1880, 1887, 1891 and 1901",
+   "date_sort": "1868",
+   "status": "HELD (public online copy). Quotes read from the linked pages, 19 Oct 2026.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0225-trade-directories-1868-1901-john-williams-great-house/"
+  },
+  "EV-0227": {
+   "id": "EV-0227",
+   "kind": "evidence",
+   "title": "Cardiff Times: John Williams “of Llandough Farm”, guest at the Bute rent audit dinner; tenant since 1855",
+   "date_display": "16 July 1904",
+   "date_sort": "1904-07-16",
+   "status": "HELD (public online copy).",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0227-cardiff-times-1904-john-williams-tenancy-since-1855/"
+  },
+  "EV-0228": {
+   "id": "EV-0228",
+   "kind": "evidence",
+   "title": "Llandough Farm and the Rees family, 1841–1910 (a separate farm, recorded for disambiguation)",
+   "date_display": "c.1841; 1865; 1886; 1898; 1910",
+   "date_sort": "1841",
+   "status": "HELD (public online copies).",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0228-llandough-farm-rees-family-1841-1910/"
+  },
+  "EV-0229": {
+   "id": "EV-0229",
+   "kind": "evidence",
+   "title": "Western Mail: girl, “Mary Butler, aged five”, hurt near her home at Great House Farm, Llandough",
+   "date_display": "Friday 27 November 1959",
+   "date_sort": "1959-11-27",
+   "status": "PENDING — snippet only. Page image: British Newspaper Archive subscription.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0229-western-mail-1959-mary-butler-great-house-farm/"
+  },
+  "EV-0230": {
+   "id": "EV-0230",
+   "kind": "evidence",
+   "title": "Western Mail: “LLANDOUGH BRIDE”, wedding of Mr. Fred Buckler and Miss Mary Doreen (Nancy) Williams, of Great House Farm",
+   "date_display": "Wednesday 5 August 1936",
+   "date_sort": "1936-08-05",
+   "status": "PENDING — snippet only. Page image: British Newspaper Archive subscription.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0230-western-mail-1936-llandough-bride-buckler-williams/"
+  },
+  "EV-0231": {
+   "id": "EV-0231",
+   "kind": "evidence",
+   "title": "London Gazette: HM Land Registry notices that Llandough land was “about to be registered”, 1960–1972",
+   "date_display": "4 March 1960; 27 November 1964; 3 July 1969; 1 August 1972",
+   "date_sort": "1960-03-04",
+   "status": "HELD (public online copy). Whether any parcel was Great House Farm land: UNCONFIRMED.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0231-london-gazette-land-registry-notices-llandough-1960-1972/"
+  },
+  "EV-0232": {
+   "id": "EV-0232",
+   "kind": "evidence",
+   "title": "Commons Registration (Glamorgan) Act 1983 (c. ix)",
+   "date_display": "Royal Assent 26 July 1983; in force 1 September 1983 (s.1(2))",
+   "date_sort": "1983-07-26",
+   "status": "HELD (public online copy). Full text read (OCR), 19 Oct 2026.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0232-commons-registration-glamorgan-act-1983/"
+  },
+  "EV-0233": {
+   "id": "EV-0233",
+   "kind": "evidence",
+   "title": "DBDT129/3: Agreement (counterpart) for tenancy of Llandough Farm, parish of Penarth, Western Ground Rents Limited to Messrs David and Thomas Thomas",
+   "date_display": "August 1940",
+   "date_sort": "1940-08",
+   "status": "PENDING — catalogue verified, document not seen.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0233-dbdt129-3-wgr-thomas-llandough-farm-tenancy-1940/"
+  },
+  "EV-0235": {
+   "id": "EV-0235",
+   "kind": "evidence",
+   "title": "Hansard (Commons), Leasehold Bill debate: Llandough Estate and Lakeside Estate ground rents",
+   "date_display": "7 December 1962",
+   "date_sort": "1962-12-07",
+   "status": "HELD (public online copy). Text read 19 Oct 2026.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0235-hansard-1962-leasehold-bill-llandough-estate/"
+  },
+  "EV-0236": {
+   "id": "EV-0236",
+   "kind": "evidence",
+   "title": "Local Government Board, Water undertakings (England and Wales) Return: Bute estate spring supply at Llandough",
+   "date_display": "28 July 1914 (Return to an order of the House of Commons dated 24 November 1910)",
+   "date_sort": "1914-07-28",
+   "status": "HELD (public online copy, OCR). Whether this supply served Great House Farm: UNCONFIRMED.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0236-water-undertakings-return-1914-bute-spring-llandough/"
+  },
+  "EV-0237": {
+   "id": "EV-0237",
+   "kind": "evidence",
+   "title": "Papers of Patrick Clavell Blount (National Anti-Fluoridation Campaign): file “Wales”",
+   "date_display": "1972–1989",
+   "date_sort": "1972",
+   "status": "PENDING — ON HOLD. File not opened. No document links Mary (Nancy) Williams, formerly Buckler, to it.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0237-pending-wellcome-pp-pcb-c-1-47-anti-fluoridation-wales/"
+  },
+  "EV-0238": {
+   "id": "EV-0238",
+   "kind": "evidence",
+   "title": "Press: Williams entries “of Llandough Farm”, 1903 and 1914",
+   "date_display": "28 November 1903; 3 April 1914",
+   "date_sort": "1903-11-28",
+   "status": "HELD (public online copies). Identity of these people: UNRESOLVED.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0238-williams-of-llandough-farm-1903-1914-unexplained/"
+  },
+  "EV-0239": {
+   "id": "EV-0239",
+   "kind": "evidence",
+   "title": "TNA BD 28/177: verbatim report of proceedings at the Ministry of Housing and Local Government public local inquiry into objections to the Glamorgan County Council Development Plan (Area No. 2), days 20–24",
+   "date_display": "19 November – 11 December 1958",
+   "date_sort": "1958-12-11",
+   "status": "PENDING — not yet read. Catalogue entry verified; the file itself has not been seen.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0239-tna-bd-28-177-glamorgan-development-plan-inquiry-verbatim-1958/"
+  },
+  "EV-0240": {
+   "id": "EV-0240",
+   "kind": "evidence",
+   "title": "Government files on the Glamorgan County Council Development Plan (Area No. 2) and the Penarth town map TM10: inspector’s report, written statement and maps, Ministry files",
+   "date_display": "1957–1963",
+   "date_sort": "1957",
+   "status": "PENDING — catalogue entries verified; no file seen.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0240-tna-bd-28-133-hlg-119-maf-112-glamorgan-development-plan-files/"
+  },
+  "EV-0241": {
+   "id": "EV-0241",
+   "kind": "evidence",
+   "title": "National Farm Survey of England and Wales 1941–1943, individual farm records: “Parish No. 39 Parish: Penarth”",
+   "date_display": "1941–1943",
+   "date_sort": "1941",
+   "status": "PENDING — catalogue entry verified; not seen. That Great House Farm’s form is in this bundle is an INFERENCE (see below).",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0241-tna-maf-32-1220-39-national-farm-survey-penarth-1941/"
+  },
+  "EV-0242": {
+   "id": "EV-0242",
+   "kind": "evidence",
+   "title": "Western Mail, 9 October 1957, p.6: an item carrying the name “Mrs. M. D. BUCKLER … Llandough.” (probably a reader’s letter; unconfirmed)",
+   "date_display": "Wednesday 9 October 1957",
+   "date_sort": "1957-10-09",
+   "status": "PENDING — SNIPPET ONLY. Page image not seen (British Newspaper Archive subscription). Content and subject unknown.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0242-western-mail-1957-mrs-m-d-buckler-snippet/"
+  },
+  "EV-0243": {
+   "id": "EV-0243",
+   "kind": "evidence",
+   "title": "Barry Dock News, 23 October 1908, p.3: “Court Leet at Llandough” (court leet and court baron of the lordship of Bute)",
+   "date_display": "23 October 1908 (court held “Thursday week last”)",
+   "date_sort": "1908-10-23",
+   "status": "HELD (public online copy; OCR read in full).",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0243-barry-dock-news-1908-court-leet-john-williams-great-house/"
+  },
+  "EV-0244": {
+   "id": "EV-0244",
+   "kind": "evidence",
+   "title": "Welsh Government ATISN 26-0010 disclosure response: retention and destruction schedules; searches under the farm name, Western Ground Rents Ltd and BP Properties Ltd",
+   "date_display": "19 October 2026 (emailed 10:25 BST)",
+   "date_sort": "2026-10-19",
+   "status": "HELD — open the letter (PDF, Wayback archive). Public copy: the requester’s personal email address is redacted; nothing else is changed.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0244-welsh-government-atisn-26-0010-disclosure-response-19-oct-2026/"
+  },
+  "EV-0245": {
+   "id": "EV-0245",
+   "kind": "evidence",
+   "title": "Cadw / Welsh Government ATISN 27589 response (ref qA2496208): request for July–December 1988 listing papers refused under FOIA s.14(2)",
+   "date_display": "19 October 2026 (emailed 14:26 BST)",
+   "date_sort": "2026-10-19",
+   "status": "HELD — open the letter (PDF, Wayback archive). Public copy: the requester’s personal email address is redacted; nothing else is changed.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0245-cadw-atisn-27589-response-s14-2-19-oct-2026/"
+  },
+  "EV-0246": {
+   "id": "EV-0246",
+   "kind": "evidence",
+   "title": "Death notices, 30 December 1864: Amy Williams, widow of John Williams of Great House farm",
+   "date_display": "30 December 1864 (death 23 December 1864)",
+   "date_sort": "1864-12-30",
+   "status": "HELD (public online copies; OCR read). VERIFIED.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0246-cardiff-times-1864-death-of-amy-williams-great-house-farm/"
+  },
+  "EV-0247": {
+   "id": "EV-0247",
+   "kind": "evidence",
+   "title": "Swine fever at Llandough, 1894: five pigs of Mr Williams, Great House, slaughtered",
+   "date_display": "3 August 1894 (outbreak “this week”; one pig reported affected on Tuesday 31 July 1894)",
+   "date_sort": "1894-08-03",
+   "status": "HELD (public online copies; OCR read). VERIFIED.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0247-barry-dock-news-1894-swine-fever-great-house-llandough/"
+  },
+  "EV-0249": {
+   "id": "EV-0249",
+   "kind": "evidence",
+   "title": "London Gazette, 3 July 1996 (Issue 54455, p. 8982): Western Ground Rents Ltd (no. 342092) placed in members’ voluntary liquidation with four BP companies, registered office BP House",
+   "date_display": "3 July 1996 (liquidator appointed 26 June 1996)",
+   "date_sort": "1996-07-03",
+   "status": "HELD (public online copy; read 19 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0249-london-gazette-3-jul-1996-western-ground-rents-bp-group-liquidation/"
+  },
+  "EV-0257": {
+   "id": "EV-0257",
+   "kind": "evidence",
+   "title": "Glamorgan Archives D696: Western Ground Rents Ltd records 1938–44 (a syndicate headed by Lord Kennet; Bute urban leaseholds bought from Mountjoy Ltd for £5m in 1938); records donated by Capital Law, Cardiff, April 2010 (custodial history)",
+   "date_display": "1938–1944 (records); April 2010 (deposit)",
+   "date_sort": "2010-04",
+   "status": "SOURCE PENDING (catalogue read; volumes not seen)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0257-glamorgan-archives-d696-western-ground-rents-records-custodial-history/"
+  },
+  "EV-0258": {
+   "id": "EV-0258",
+   "kind": "evidence",
+   "title": "Glamorgan Archives ACA/2, ACA/3 and ACA/6: Cardiff County Court ordinary actions, plaint and minute books and default actions: no volume covers 1952–53 (survival map for the Frederick Buckler arrears judgment)",
+   "date_display": "1947–1951 (surviving volumes)",
+   "date_sort": "1947",
+   "status": "SOURCE PENDING (not seen)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0258-glamorgan-archives-aca-2-3-6-cardiff-county-court-survival-map/"
+  },
+  "EV-0259": {
+   "id": "EV-0259",
+   "kind": "evidence",
+   "title": "Western Mail, 18 March and 28 October 1955: Cardiff held a 176-acre Leckwith Woods “bought … for a nominal sum in 1942” and leased 106 acres to the Forestry Commission for 999 years; measured against today’s boundaries, Leckwith Woods lies wholly outside Llandough",
+   "date_display": "18 March 1955; 28 October 1955",
+   "date_sort": "1955-03-18",
+   "status": "SOURCE PENDING (snippets only); measurement HELD",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0259-leckwith-woods-1955-cardiff-forestry-commission-lease-and-boundary-measure/"
+  },
+  "EV-0263": {
+   "id": "EV-0263",
+   "kind": "evidence",
+   "title": "Commons Registration Act 1965 s.5 and SI 1968/989: registrations were publicised by public notice only; Glamorgan County Council’s London Gazette notices of 22 October 1968 and 24 October 1969; second objection period for VG41 ran 1 May 1970 – 31 July 1972",
+   "date_display": "1968–1972 (objection period ended 31 July 1972)",
+   "date_sort": "1972-07-31",
+   "status": "HELD (texts read 19 Oct 2026); the 1970 Glamorgan second-period notice listing VG41 NOT FOUND (Gazette OCR)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0263-commons-registration-1965-publicity-glamorgan-notices-vg41/"
+  },
+  "EV-0265": {
+   "id": "EV-0265",
+   "kind": "evidence",
+   "title": "Registration background: compulsory registration of title began in the Vale of Glamorgan on 1 December 1975 (SI 1975/160); the solicitor’s certificate on first registration (LRR 1925 r.29; 1989 text); the HMLR “about to be registered” Gazette notices ran only to about May 1975",
+   "date_display": "1 December 1975 (compulsory registration)",
+   "date_sort": "1975-12-01",
+   "status": "HELD (texts read 16–19 Oct 2026); the 1983 Form 1C and r.29 wording as used in Feb 1983 NOT SEEN",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0265-hmlr-registration-background-compulsory-1975-r29-certificate/"
+  },
+  "EV-0268": {
+   "id": "EV-0268",
+   "kind": "evidence",
+   "title": "Cadw 13428, Lower Farmhouse, Rhoose: an early-19th-century Vale farmhouse listed on 12 October 1988 (“Interior not available at resurvey”), a comparator for the 1988 Llandough resurvey",
+   "date_display": "12 October 1988",
+   "date_sort": "1988-10-12",
+   "status": "HELD (public record, read 20 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0268-cadw-13428-lower-farmhouse-rhoose-listed-12-oct-1988/"
+  },
+  "EV-0270": {
+   "id": "EV-0270",
+   "kind": "evidence",
+   "title": "Press set, 1988–1995: BP Pension Fund sold about 1,300 acres of Welsh land to Intercontinental Land & Development (Cardiff) Ltd for £29,375,400 (Oct 1988); the Land Authority for Wales bought plots at Llandough (Nov 1988), later passing Leckwith/Llandough woods to South Glamorgan County Council (1994–95)",
+   "date_display": "October 1988 – 1995",
+   "date_sort": "1988-10",
+   "status": "SOURCE PENDING (snippets only; full articles not read)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0270-bp-pension-fund-1988-sale-intercontinental-law-llandough-press/"
+  },
+  "EV-0272": {
+   "id": "EV-0272",
+   "kind": "evidence",
+   "title": "Cadw listed-building records 13430, 13431, 13432: the Llandough community resurvey list was issued on 6 April 1989 (church 4 June 1989), after the December 1988 demolition",
+   "date_display": "6 April 1989 (designation dates); survey 1988",
+   "date_sort": "1989-04-06",
+   "status": "HELD (public record, read 20 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0272-cadw-1989-llandough-resurvey-list-13430-13431-13432/"
+  },
+  "EV-0273": {
+   "id": "EV-0273",
+   "kind": "evidence",
+   "title": "South Wales Echo, 23 February 1990, p.1: “company chiefs are bidding [to] build homes” on the Great House Farm land; Llandough Community Council made no objection but wanted the land registered as village green (snippet)",
+   "date_display": "23 February 1990",
+   "date_sort": "1990-02-23",
+   "status": "SOURCE PENDING (snippet only)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0273-south-wales-echo-23-feb-1990-great-house-farm-homes-bid-village-green/"
+  },
+  "EV-0275": {
+   "id": "EV-0275",
+   "kind": "evidence",
+   "title": "London Gazette, 30 October 1990, 22 October 1991 and 20 June 1997: Welsh Office proposals to stop up parts of Old Barry Road, Llandough under s.247 TCPA 1990 for residential development (refs ZC 510-5-7-10 and ZC510-5-72-2)",
+   "date_display": "30 October 1990; 22 October 1991; 20 June 1997",
+   "date_sort": "1990-10-30",
+   "status": "HELD (notices read 20 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0275-london-gazette-old-barry-road-llandough-stopping-up-1990-1991-1997/"
+  },
+  "EV-0276": {
+   "id": "EV-0276",
+   "kind": "evidence",
+   "title": "Press set, 1994–1996: Ideal Homes (Wales) built “Churchview Close”, Llandough (first buyers by January 1995); Persimmon bought Ideal Homes in early 1996 and sold the last house there by September 1996 (snippets)",
+   "date_display": "1994 – September 1996",
+   "date_sort": "1996-09",
+   "status": "SOURCE PENDING (snippets only)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0276-churchview-close-llandough-ideal-homes-persimmon-1994-1996/"
+  },
+  "EV-0277": {
+   "id": "EV-0277",
+   "kind": "evidence",
+   "title": "London Gazette, 3 July 1996 (p.8990) and 18 April 1997 (p.4683): Western Ground Rents Ltd’s members’ voluntary winding-up: notice to creditors (“All known Creditors have been or will be paid in full”) and final meetings on 16 May 1997 to lay an account of how “the property of the Companies have been disposed of”",
+   "date_display": "26 June 1996 (notice); 16 May 1997 (final meetings)",
+   "date_sort": "1996-06-26",
+   "status": "HELD (notices read 20 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0277-london-gazette-1996-1997-western-ground-rents-creditors-and-final-meetings/"
+  },
+  "EV-0279": {
+   "id": "EV-0279",
+   "kind": "evidence",
+   "title": "Barry Dock News, 16 August 1889, p.2, “A Batch of Orchard Looters at Llandough”: four boys fined at Penarth for taking apples from “the orchard of Great House Farm … the property of John Williams”; John Williams junior gives evidence about “his father’s orchard”, which the boys entered “over the hedge from the railway”",
+   "date_display": "16 August 1889 (offence Sunday 11 August 1889; hearing Monday 12 August 1889)",
+   "date_sort": "1889-08-16",
+   "status": "HELD (public online copy, read 21 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0279-barry-dock-news-16-aug-1889-p-2-apples-taken-from-the-orchard-of-great-house-farm/"
+  },
+  "EV-0280": {
+   "id": "EV-0280",
+   "kind": "evidence",
+   "title": "Llandough Lime Works and Llandough Quarry, 1876–1947: the contemporary record (Daniel Thomas’s obituary 1887; quarry labourer 1888; Kelly’s 1895 “Llandough Lime Works (D. Thomas & Son, proprietors)”; quarry fatality 1909; OS six-inch sheets revised 1915, 1938 and 1947)",
+   "date_display": "1876–1947 (items dated 15 Dec 1887; 24 Apr 1888; 1895; 12 and 22 May 1909; OS revisions 1915, 1938, 1947)",
+   "date_sort": "1887-12-15",
+   "status": "HELD (public online copies, read 21 Oct 2026); D153/4–8 SOURCE PENDING",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0280-llandough-lime-works-and-quarry-1876-1947-daniel-thomas-s-kilns-quarry-workers-kel/"
+  },
+  "EV-0282": {
+   "id": "EV-0282",
+   "kind": "evidence",
+   "title": "Evening Express, 27 March 1907 p.3 and 2 April 1907 p.4: the Llandough Air-rifle Club’s Easter Monday competition “at the Great House Farm, Llandough”; Evening Express, 10 January 1908 p.3, “Two months for a poacher”: “poaching on Great House Farm, Llandough” on 6 January 1908",
+   "date_display": "27 March and 2 April 1907; 10 January 1908",
+   "date_sort": "1907-04-02",
+   "status": "HELD (public online copies, read 21 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0282-evening-express-27-mar-and-2-apr-1907-air-rifle-meeting-at-great-house-farm-llando/"
+  },
+  "EV-0283": {
+   "id": "EV-0283",
+   "kind": "evidence",
+   "title": "Court Leet and Court Baron of the Marquess of Bute for the manors of Leckwith, Llandough, Cogan, Cosmeston and Walterstone, held at the Merry Harrier Hotel, Llandough: press reports of 6 Oct 1904, Oct 1910, Oct 1913, Oct 1915 and Oct 1917 (jury lists, officers, and “no presentments”)",
+   "date_display": "October 1904, 1910, 1913, 1915 and 1917",
+   "date_sort": "1904-10",
+   "status": "HELD (public online copies, read 21 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0283-bute-court-leet-at-llandough-press-reports-1904-1917-john-williams-on-the-1910-gra/"
+  },
   "EV-0284": {
    "id": "EV-0284",
    "kind": "evidence",
@@ -2036,6 +2356,51 @@
    "status": "PARTLY READ (death read; estate report not checked)",
    "page": null
   },
+  "EV-0285": {
+   "id": "EV-0285",
+   "kind": "evidence",
+   "title": "Western Mail search-result snippets, 1925–1939: “damages in respect of losses by dogs worrying sheep was claimed by Mr. John Williams, Great House Farm, Llandough” (26 Mar 1925, p.4); “PONY, 12.2, ride or drive; best offer.— Great House Farm, Llandough, near Penarth” (8 and 9 Jun 1937, p.3); “LOST from Great House Farm, Twelve-bore Gun; number known.—Williams, Llandough” (6 Feb 1939, p.2)",
+   "date_display": "26 March 1925; 8–9 June 1937; 6 February 1939",
+   "date_sort": "1925-03-26",
+   "status": "SOURCE PENDING (snippets read 21 Oct 2026; full pages not read)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0285-snippets-only-western-mail-1925-1939-naming-great-house-farm-llandough-john-willia/"
+  },
+  "EV-0286": {
+   "id": "EV-0286",
+   "kind": "evidence",
+   "title": "Western Mail, 17 November 1942, p.2, auction advertisement: “IMPORTANT SALE OF LIVE AND DEAD FARMING STOCK. GREAT HOUSE FARM, LLANDOUGH” (search snippet only; parish not stated in the snippet)",
+   "date_display": "17 November 1942",
+   "date_sort": "1942-11-17",
+   "status": "SOURCE PENDING (snippet read 21 Oct 2026; advertisement not read)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0286-snippet-only-western-mail-17-nov-1942-p-2-important-sale-of-live-and-dead-farming/"
+  },
+  "EV-0289": {
+   "id": "EV-0289",
+   "kind": "evidence",
+   "title": "Press search snippets: (1) 7 Feb 1981, BP Pension Trust sells its residential freehold ground rents in South Wales to Cefn Estates, “one of the biggest property deals of its kind”; (2) South Wales Echo, 29 Jul 1983, p.21, “PLAN FOR HOUSE”: Vale councillors to hold a site meeting in Llandough on BP Pension Trust’s plan to build a house on land at Penlan Road",
+   "date_display": "7 February 1981; 29 July 1983",
+   "date_sort": "1981-02-07",
+   "status": "SOURCE PENDING (snippets read 21 Oct 2026)",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0289-snippets-only-bp-pension-trust-in-south-wales-1981-83-sale-of-its-residential-grou/"
+  },
+  "EV-0291": {
+   "id": "EV-0291",
+   "kind": "evidence",
+   "title": "National Library of Wales, Bute Estate Records: catalogue entries D153/1–8 (Llandough) and D242/1–27, D247/1–69, D258/1–110 (Pwllypant estate, p. Eglwysilan)",
+   "date_display": "D153: 1811–1912 · D242: 1775–1921 · D247: 1723–1895 · D258: 1867–1877 (catalogue dates)",
+   "date_sort": "1811",
+   "status": "HELD (catalogue text, read online 21 Oct 2026); the deeds and the plan on D153/4 SOURCE PENDING",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0291-nlw-bute-catalogue-d153-llandough-33-acres-great-house-farm-limeworks-and-pwllypant-d242-d247-d258/"
+  },
+  "EV-0292": {
+   "id": "EV-0292",
+   "kind": "evidence",
+   "title": "Llandough Lime Works and Llandough Brickworks: the industrial sequence as published in The Brickworks of Wales — South Glamorgan (secondary), checked against J. E. Billups’s obituary (South Wales Daily News, 26 Nov 1896, p.6)",
+   "date_display": "1871–1947 (secondary account); 26 Nov 1896 (press)",
+   "date_sort": "1896-11-26",
+   "status": "HELD (public online copies, read 21 Oct 2026). The directory and map sources behind the secondary account SOURCE PENDING.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0292-llandough-lime-works-and-brickworks-industrial-sequence-secondary-and-billups-obituary-1896/"
+  },
   "EV-0294": {
    "id": "EV-0294",
    "kind": "evidence",
@@ -2044,6 +2409,33 @@
    "date_sort": "1923-00-00",
    "status": "HELD (copy)",
    "page": null
+  },
+  "EV-0613": {
+   "id": "EV-0613",
+   "kind": "evidence",
+   "title": "Bute Glamorgan manorial records: court books to 1937, extinguishment of manorial incidents 1929–40, Ministry of Agriculture correspondence 1938, steward for the \"Glamorgan manors of Mountjoy Ltd\" 1937 (Glamorgan Archives DB/M/1–21)",
+   "date_display": "1926–1940",
+   "date_sort": "1926",
+   "status": "PENDING — view free at Glamorgan Archives.",
+   "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0613-bute-glamorgan-manorial-records-1926-1940/"
+  },
+  "EV-0625": {
+   "id": "EV-0625",
+   "kind": "evidence",
+   "title": "The 1938 sale as one transaction: contracts 17 May 1938, Western Ground Rents registered 4–5 July 1938, manors kept back, Mountjoy as mortgagee to 1944",
+   "date_display": "17 May – 23/25 Dec 1938; 14 Jun 1939",
+   "date_sort": "1938-12-25",
+   "status": "READ (search-result text and catalogue entries).",
+   "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0625-bute-mountjoy-sale-to-wgr-1938-one-transaction/"
+  },
+  "EV-0628": {
+   "id": "EV-0628",
+   "kind": "evidence",
+   "title": "Authenticity audit of both title lines: which instrument has been seen, which is known only from a recital, press or catalogue (analysis, 25 Oct 2026)",
+   "date_display": "25 October 2026",
+   "date_sort": "2026-10-25",
+   "status": "PUBLISHED — ingredients only.",
+   "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0628-title-chain-authenticity-audit-2026/"
   }
  }
 }
